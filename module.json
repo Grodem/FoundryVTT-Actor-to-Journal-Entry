@@ -1,0 +1,18 @@
+{
+  "id": "actor-to-journal-entry",
+  "title": "Actor to Journal Entry",
+  "description": "A simple module used to create journal entries form actors.",
+  "authors": [
+    {
+    "name": "Grodem"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "url": "https://github.com/Grodem/actor-to-journal-entry",
+  "manifest": "https://raw.githubusercontent.com/Grodem/actor-to-journal-entry/releases/latest/download/module.json",
+  "download": "https://github.com/Grodem/actor-to-journal-entry/releases/latest/download/module.zip",
+}
